@@ -67,6 +67,12 @@ h1 {
     font-weight: 700;
 }
 
+h1.name {
+    font-size: 2.2em;
+    text-decoration: underline rgb(189, 187, 187);
+    text-underline-offset: 0.3em;
+}
+
 h2 {
     font-weight: 700;
 }
